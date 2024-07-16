@@ -14,16 +14,6 @@ const App = () => {
       <Banner />
       <Nav />
       <About />
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
       <Work />
       <Work2 />
       <Services />

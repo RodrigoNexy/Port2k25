@@ -6,8 +6,9 @@ import {fadeIn} from '../variants';
 import img1 from '../assets/FLORIPA MOTO WEEK.png';
 import img2 from '../assets/APP WEB.png';
 import img3 from '../assets/TEMPLATE.png';
+import '../components/contact.css';
 const Work = () => {
-  return <section id='work' className='section'>
+  return <section id='work' className='section doido'>
     <div className='container mx-auto '>
       <div className='flex flex-col lg:flex-row gap-x-10'>
         <motion.div variants={fadeIn('right', 0.3)} 

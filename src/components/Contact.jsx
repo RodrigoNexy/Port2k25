@@ -1,11 +1,11 @@
 import { FaGithub, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import '../components/contact.css'; // Certifique-se de criar e importar o arquivo CSS
+import '../components/contact.css';
 
 const Contact = () => {
   return (
-    <section id='contact' className='py-16 lg:section mt-22'>
+    <section id='contact' className='py-16 lg:section mt-22 final'>
       <div className='container mx-auto'>
         <div className='flex flex-col items-center lg:flex-row'>
           {/* text */}
