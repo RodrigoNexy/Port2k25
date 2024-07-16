@@ -14,7 +14,16 @@ const App = () => {
       <Banner />
       <Nav />
       <About />
-      <div className='mb-80'></div>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
       <Work />
       <Work2 />
       <Services />
