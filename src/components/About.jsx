@@ -9,7 +9,7 @@ import {Link} from 'react-scroll'
 
 const About = () => {
   const[ref, inView] =  useInView({
-    threshold: 0.1, 
+    threshold: 0.0, 
   });
   return <section id='about' className='section' ref={ref}>
     <div className='container mx-auto'>
