@@ -14,6 +14,7 @@ const App = () => {
       <Banner />
       <Nav />
       <About />
+      <div className='mb-80'></div>
       <Work />
       <Work2 />
       <Services />
