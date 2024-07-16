@@ -41,7 +41,7 @@ const Contact = () => {
                 <FaLinkedinIn />
                 <h1>LinkedIn</h1>
               </a>
-              <a href='wa.me/5548999593922' target="_blank" className='social-icon'>
+              <a href='https://wa.me/5548999593922' target="_blank" className='social-icon'>
                 <FaWhatsapp />
                 <h1 className='mb-12'>WhatsApp</h1>
               </a>
