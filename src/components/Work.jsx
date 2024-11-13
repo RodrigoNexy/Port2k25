@@ -43,7 +43,7 @@ const Work = () => {
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             {/* img */}
             <img className='group-hover:scale-125 transition-all duration-500' src={img2}></img>
-            <div className='absolute -bottom-full left-3 group-hover:top-2 transition-all duration-500 z-50'><span className='text-gradient'>Feito com ReactJs<br/>
+            <div className='absolute -bottom-full left-3 group-hover:top-2 transition-all duration-500 z-50'><span className='text-gradient'>Feito com ReactJs/NextJs<br/>
             Estou desenvolvendo uma aplicação para agendamento de salões de beleza, ou de outros nichos. (<b>aplicação fullstack</b>)<br/>
             PRETENDENDO FAZER EM REACT NATIVE.</span></div>
             <div className='absolute -bottom-full left-3 group-hover:bottom-14 transition-all duration-700 z-50'>
