@@ -47,7 +47,7 @@ const Work = () => {
             Estou desenvolvendo uma aplicação para agendamento de salões de beleza, ou de outros nichos. (<b>aplicação fullstack</b>)<br/>
             PRETENDENDO FAZER EM REACT NATIVE.</span></div>
             <div className='absolute -bottom-full left-3 group-hover:bottom-14 transition-all duration-700 z-50'>
-            <a target="_blank" href='https://github.com/RodrigoNexy/'><button className='btn btn-sm absolute -bottom-full left-0 group-hover:top-0  transition-all duration-700 z-50'>Repositório.</button></a>
+            <a target="_blank" href='https://github.com/RodrigoNexy/App-Barbearia-2k25'><button className='btn btn-sm absolute -bottom-full left-0 group-hover:top-0  transition-all duration-700 z-50'>Repositório.</button></a>
             </div>
           </motion.div>
           <motion.div variants={fadeIn('left', 0.3)} 
