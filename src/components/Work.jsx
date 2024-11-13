@@ -4,7 +4,7 @@ import {motion} from 'framer-motion';
 import {fadeIn} from '../variants';
 //img
 import img1 from '../assets/FLORIPA MOTO WEEK.png';
-import img2 from '../assets/APP WEB.png';
+import img2 from '../assets/APPCORRIGIDO.png';
 import img3 from '../assets/TEMPLATE.png';
 import '../components/contact.css';
 const Work = () => {
