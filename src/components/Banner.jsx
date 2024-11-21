@@ -25,7 +25,7 @@ const Banner = () => {
             className='mb-6 text-[36px] lg:text-[50px] font-secondary font-semibold uppercase leading[1]'>
             <span className='text-white mr-4'>Eu sou</span>
             <TypeAnimation sequence={[
-              'FrontEnd Developer',
+              'FullStack Developer',
               2000,
               'Web Designer',
               2000,
