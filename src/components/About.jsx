@@ -28,7 +28,7 @@ const About = () => {
         whileInView={"show"}
         viewport={{once: false, amount: 0.3}} className='flex-1'>
           <h2 className='h2 text-accent'>Sobre Mim</h2>
-          <h3 className='h3 mb-4'>Eu sou um Desenvolvedor FrontEnd e WebDesigner</h3>
+          <h3 className='h3 mb-4'>Eu sou um Desenvolvedor FullStack e WebDesigner</h3>
           <p className='mb-6'>Me chamo Rodrigo Carvalho, cursando <strong>Analise e Desenvolvimento de Sistemas</strong> (Faculdade Descomplica),
           já atuei em áreas como Designer Gráfico, Editor de Video e Filmmaking, porém me encontrei na programação.<br/><br/>
           Tecnologias que trabalho: <b>ReactJs, JavaScript, Liquid, Php, Wordpress.</b><br/><br/>
