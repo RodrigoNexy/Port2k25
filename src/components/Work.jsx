@@ -27,7 +27,9 @@ const Work = () => {
             {/* img */}
             <img className='group-hover:scale-125 transition-all duration-500' src={img1}></img>
             <div className='absolute -bottom-full left-3 group-hover:top-5 transition-all duration-500 z-50'><span className='text-gradient'>Feito com WORDPRESS, ELEMENTOR, FIGMA, PHOTOSHOP.<br/>
-            Site para o evento de motos realizado desde 2023 em Florianópolis</span></div>
+            Site para o evento de motos realizado desde 2023 em Florianópolis
+            <br/>
+            Site desativado por Flavio, retorna na proxima edição!</span></div>
             <div className='absolute -bottom-full left-3 group-hover:bottom-14 transition-all duration-700 z-50'>
               <a target="_blank" href='https://floripamotoweek.com.br'><button className='btn btn-sm absolute -bottom-full  group-hover:top-0  transition-all duration-700 z-50'>Veja o Projeto.</button></a>
               </div >
@@ -43,9 +45,8 @@ const Work = () => {
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             {/* img */}
             <img className='group-hover:scale-125 transition-all duration-500' src={img2}></img>
-            <div className='absolute -bottom-full left-3 group-hover:top-2 transition-all duration-500 z-50'><span className='text-gradient'>Feito com ReactJs/NextJs<br/>
-            Estou desenvolvendo uma aplicação para agendamento de salões de beleza, ou de outros nichos. (<b>aplicação fullstack</b>)<br/>
-            PRETENDENDO FAZER EM REACT NATIVE.</span></div>
+            <div className='absolute -bottom-full left-3 group-hover:top-2 transition-all duration-500 z-50'><span className='text-gradient'>Feito com ReactJs/NextJs/React Native<br/>
+            Estou desenvolvendo uma aplicação para agendamento de salões de beleza, ou de outros nichos.</span></div>
             <div className='absolute -bottom-full left-3 group-hover:bottom-14 transition-all duration-700 z-50'>
             <a target="_blank" href='https://github.com/RodrigoNexy/App-Barbearia-2k25'><button className='btn btn-sm absolute -bottom-full left-0 group-hover:top-0  transition-all duration-700 z-50'>Repositório.</button></a>
             </div>
