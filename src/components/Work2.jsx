@@ -22,10 +22,11 @@ const Work2 = () => {
             {/* img */}
             <img className='group-hover:scale-125 transition-all duration-500' src={img5}></img>
             <div className='absolute -bottom-full left-3 group-hover:top-2 transition-all duration-500 z-50'><span className='text-gradient'>Feito com WORDPRESS, ELEMENTOR, FIGMA, Photoshop.<br/>
-            Site feito para Advocacia Schappo, me pediu para fugir dos padrões dos templates de ADVOCACIAS.</span></div>
+            Site feito para Advocacia Schappo, me pediu para fugir dos padrões dos templates de ADVOCACIAS.
+            <br/>
+            SITE DESCONTINUADO, CLIENTE PEDIU PARA PARAR DE FAZER MANUTENÇÃO.</span></div>
             <div className='absolute -bottom-full left-3 group-hover:bottom-14 transition-all duration-700 z-50'>
-              <a target="_blank" href='https://ls.adv.br'><button className='btn btn-sm absolute -bottom-full left-0 group-hover:top-0 transition-all duration-700 z-50'>Veja o Projeto.</button></a>
-              </div>
+               </div>
           </motion.div>
           <motion.div variants={fadeIn('left', 0.3)} 
         initial="hidden" 
